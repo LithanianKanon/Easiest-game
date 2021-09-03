@@ -1,7 +1,7 @@
 
 
   function RickrollEE() {
-window.location= "Rickroll.html";
+window.location= "VictoryScreen.html";
 
   }
 
